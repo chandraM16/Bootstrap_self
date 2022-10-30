@@ -1,0 +1,16 @@
+.container-fluid{
+    border: 3px solid red;
+}
+.container{
+    border: 3px solid black;
+}
+.row{
+    border: 3px solid darkgoldenrod;
+    margin: 4px ;
+}
+.pink{
+    background-color: pink;
+}
+.red{
+    background-color: rgb(239, 78, 78);
+}
