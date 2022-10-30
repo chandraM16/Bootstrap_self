@@ -1,0 +1,14 @@
+.container-fluid{
+    border: 3px solid red;
+}
+.container{
+    border: 3px solid black;
+}
+.row{
+    border: 3px solid darkgoldenrod;
+    margin: 4px ;
+}
+.col-xl{
+    border: 3px solid rgb(27, 80, 128);
+    margin: 2px;
+}

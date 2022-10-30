@@ -1,0 +1,19 @@
+.container-fluid {
+    border: 3px solid rgb(230, 150, 150);
+}
+
+.container {
+    border: 3px solid black;
+}
+
+.row {
+    border: 3px solid rgb(7, 146, 30);
+    margin: 4px;
+}
+
+.col-md-12,
+.col-md-8,
+.col-md-3 {
+    border: 3px solid rgb(180, 9, 210);
+    /* margin: 3px; */
+}
